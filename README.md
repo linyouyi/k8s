@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # k8s-prom
 
 - prometheus目录：部署Promethues Metrics API Server所需要的各资源配置清单。
@@ -9,3 +10,7 @@
 
 #### 参考：https://github.com/stefanprodan/k8s-prom-hpa
 
+=======
+# k8s
+自己的k8s
+>>>>>>> ad13738003481476aa79e56d8b322c591478ee36
