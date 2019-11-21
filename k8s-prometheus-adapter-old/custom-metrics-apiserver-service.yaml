@@ -3,6 +3,8 @@ kind: Service
 metadata:
   name: custom-metrics-apiserver
   namespace: prom
+  labels:
+    app: custom-metrics-apiserver
 spec:
   ports:
   - port: 443
